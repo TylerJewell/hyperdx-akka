@@ -39,11 +39,11 @@ Full method and the numbers that did *not* make this list:
 
 ## What it took to build
 
-⏱️ **0.7 hours** from the first command to the published repository, **0.7** of them active<br>
-💬 **243** exchanges with the model<br>
-✍️ **205,481** tokens written by the model, **39,335,608** counting everything sent and re-sent<br>
+⏱️ **0.8 hours** from the first command to the published repository, **0.8** of them active<br>
+💬 **275** exchanges with the model<br>
+✍️ **232,197** tokens written by the model, **48,405,871** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
-🧪 **33** tests
+🧪 **34** tests
 
 ```bash
 python toolkit/tokens.py --port hyperdx    # turns, tokens, elapsed and active time
